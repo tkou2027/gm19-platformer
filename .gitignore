@@ -1,3 +1,12 @@
+# my
+src/**
+!/src/
+!/src/**/
+!src/**/*.cpp
+!src/**/*.h
+src/extern/*
+src/platform/*
+
 ##### Windows
 # Windows thumbnail cache files
 Thumbs.db
