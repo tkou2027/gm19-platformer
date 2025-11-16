@@ -7,7 +7,7 @@ Nintendo Switch向けに開発した2D横スクロールアクションゲーム
 * HAL三校合同コンテストで技術力賞受賞
 
 ## プレイ動画
-https://github.com/user-attachments/assets/e3e4cea1-a989-4df9-b80e-2befd14aef3b
+https://github.com/user-attachments/assets/d3e88145-0230-4049-b4f1-ee3c7eba27d0
 
 ## ゲームの進め方
 斬撃の赤い軌跡は、あるものを不可視にし、あるものを可視にする。  
